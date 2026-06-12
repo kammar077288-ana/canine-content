@@ -5,3 +5,4 @@ https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/mai
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/General_Surgery_MCQs.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Orthodontics_MCQ.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/myofunctional%20appliance1.csv
+https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/pedodontics_mcqs.csv
