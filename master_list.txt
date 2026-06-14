@@ -1,8 +1,6 @@
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Biomechanics_MCQs.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Endodontics_Chapters_4_5_6_MCQs.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Orthodontics_MCQ_Final.csv
-https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Operative_Dentistry_MCQs.csv
-https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/General_Surgery_MCQs.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Orthodontics_MCQ.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/myofunctional%20appliance1.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/pedodontics_mcqs.csv
