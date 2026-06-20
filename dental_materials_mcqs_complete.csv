@@ -1,0 +1,493 @@
+﻿Subject,Chapter,Question No,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation,Image Reference
+Dental Materials,1. PHYSICAL PROPERTIES,1,Stress is defined as,An applied load or force,A deformation resulting from an applied load,An external force opposing an applied load,An internal force opposing an applied load,D,"'D' [Phillips' 11th ed 77/ 12th ed 50]
+Stress is force per unit area perpendicular to the force direction (the internal resistance set up within a body to resist an externally applied force).",
+Dental Materials,1. PHYSICAL PROPERTIES,2,Strain is defined as,An applied load or force,A deformation resulting from an applied load,An external force opposing an applied load,An internal force opposing an applied load,B,'B' [Phillips' 11th ed 76/ 12th ed 51],
+Dental Materials,1. PHYSICAL PROPERTIES,3,The proportional limit is,The maximum stress in a structure.,The minimum force required to cause a structure to break,The maximum stress that can be induced without permanent deformation,The maximum elongation under tension that can be measured before failure.,C,"'C' [Phillips' 11th ed 85/ 12th ed 57]
+Stresses above proportional limit cause plastic deformation. This stress is called yield strength or proof stress. It is the greatest stress, produced in a material such that stress is directly proportional to the strain.",
+Dental Materials,1. PHYSICAL PROPERTIES,4,The modulus of elasticity is defined as,The stress at the proportional limit,The strain at the proportional limit,The stress/strain ratio within the proportional limit,None of the above,C,"'C' [Phillips' 11th ed 80/ 12th ed 55]
+Stress / Strain ratio within the proportional limit is called Elastic modulus or Young's modulus. It measures the relative rigidity or stiffness of material.",
+Dental Materials,1. PHYSICAL PROPERTIES,5,Compressive stress is computed by dividing the external force by the,Area of the test specimen upon which the weight rests,Elasticity of the test specimen in strain,Length of the test specimen beneath the force,Strain of the test specimen per unit length,A,"'A' [Phillips' 11th ed 75/ 12th ed 51]
+Stress is force per unit area perpendicular to the force direction.",
+Dental Materials,1. PHYSICAL PROPERTIES,6,The greatest stress which may be produced in a material such that stress is directly proportional to the strain is know as,The elastic limit,The proportional limit,The yield strength,Modulus of elasticity,B,'B' [Phillips' 11th ed 87/ 12th ed 57],
+Dental Materials,1. PHYSICAL PROPERTIES,7,The point at which a stress of a material exhibits a specific limited deviation P is called,Proportional limit,Tensile strength,Ultimate strength,Yield strength,D,"'D' [Phillips' 11th ed 87/ 12th ed 57]
+Yield strength is the stress required to produce plastic deformation.",
+Dental Materials,1. PHYSICAL PROPERTIES,8,Hardness number which does not depend on the ductility of metal,KHN,VHN,RHN,BHN,A,"'A' [Phillips' 11th ed 98/ 12th ed 65]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Hardness test</th><th>Material used to measure</th></tr></thead><tbody><tr><td>Knoop hardness test</td><td>Diamond of rhombic shape (The long axis of indentation is measured)</td></tr><tr><td>Vickers (Diamond pyramid test)</td><td>Diamond of square base shape (The diagonal length of the indentation is measured)</td></tr><tr><td>Rockwell</td><td>Diamond of conical shape (The penetration depth is measured)</td></tr><tr><td>Brinells</td><td>Steel ball (The diameter of indentation is measured)</td></tr></tbody></table>
+The Knoop hardness test is used to obtain the values for both exceedingly hard and soft materials. The hardness value is independent of the ductility of the material.",
+Dental Materials,1. PHYSICAL PROPERTIES,9,Ability of an orthodontic wire to spring back to its original shape is evaluated by,Brittleness,Resilience,Tensile strength,Toughness,B,"'B' [Phillips' 11th ed 84/ 12th ed 57]
+Resilience is the amount of energy absorbed by a structure when it is stressed to proportional limit. The elastic area of the stress-strain graph gives resilience; entire area up to breaking point is a measure of toughness. The slope of straight line gives Young's modulus.",
+Dental Materials,1. PHYSICAL PROPERTIES,10,Brinell hardness number of a dental gold alloy is directly proportional to its:,Tensile strength,Elongation,Modulus of elasticity,Modulus of resilience,A,"'A' [Phillips' 11th ed 97/ 12th ed 64]
+Brinnel and Rockwell tests are classified as macro hardness tests and they are not suitable for brittle materials.
+
+The Knoop and Vickers tests are classified as micro hardness tests. Both of these employ loads less than 9.8N.
+
+The Shore and the Barcol tests are used for measuring the hardness of rubbers and plastics.
+
+The Brinnel test is the one of oldest tests used for determining the hardness of materials and is directly related to proportional limit and the ultimate tensile strength of dental gold alloys.
+
+The convenience of the Rockwell test, with direct reading of the depth of the indentation, has lead to its wide usage.
+
+The Knoop hardness test is used to obtain the values for both exceedingly hard and soft materials. The hardness value is independent of the ductility of the material.
+
+The Vickers test is employed for dental casting gold alloys. It is suitable for determining the hardness of brittle materials.",
+Dental Materials,1. PHYSICAL PROPERTIES,11,Ultimate tensile strength refers to:,Stress before rupture,Stress after rupture,Longitudinal compressive strength,Horizontal compressive strength,A,"'A' [Phillips' 11th ed 85/ 12th ed 57]
+Ultimate tensile strength (breaking point) is the stress at the point of fracture.",
+Dental Materials,1. PHYSICAL PROPERTIES,12,When solid gets wet completely contact angle is:,90°,0°,0 - 90°,>90°,B,"'B' [Phillips' 11th ed 38/ 12th ed 26]
+The contact angle is the angle formed by the adhesive with the adherend at their interface. The less the contact angle, the more the wettability and spreadability.
+- If the contact angle is < 90° - the result is rise of liquid.
+- If the contact angle is > 90° - the result is depression of liquid.
+- The degree of contact angle for proper wetting is 0°
+- The contact angle between saliva and acrylic denture base is 75°.
+- The contact angle between glass and mercury is 135°.",
+Dental Materials,1. PHYSICAL PROPERTIES,13,"Property of the material, which describes the resistance to abrasion, is",Hardness,Yield strength,Modulus of elasticity,None of the above,A,"'A' [Phillips' 11th ed 43,96/ 12th ed 63]
+Hardness is resistance to abrasion and indentation. Brinnel and Rockwell are macro hardness tests whereas Knoop and Vickers are micro hardness tests.",
+Dental Materials,1. PHYSICAL PROPERTIES,14,Modulus of elasticity means,Rigidity or stiffness of the material,Ability to be stretched with permanent deformation,Ductility of a material,Malleability of the metal,A,'A' [Phillips' 11th ed 80/ 12th ed 55],
+Dental Materials,1. PHYSICAL PROPERTIES,15,"A material behaves in certain ways above and below the proportional limit on a stress strain curve, which of the following is correct:","Above the proportional limit a material function in a plastic manner, while below the proportional limit it behaves as an elastic","Above the proportional limit a material functions in an elastic manner, while below the proportional limit it behaves as an plastic",Either A or B,Neither A or B,A,'A' [Phillips' 11th ed 80/ 12th ed 56],
+Dental Materials,1. PHYSICAL PROPERTIES,16,Sublimation is the conversion of a,Solid directly to gas,Gas to liquid and then to solid,Gas directly to liquid,Solid to liquid and then to gas,A,'A' [Phillips' 11th ed 23],
+Dental Materials,1. PHYSICAL PROPERTIES,17,Which of the following physical property can be used to estimate indirectly the proportional limit of gold alloys?,Vickers hardness number,Knoop hardness number,Brinell hardness number,Rockwell hardness number,C,'C' [Phillips' 12th ed 64],
+Dental Materials,1. PHYSICAL PROPERTIES,18,Ductility of a material is a measure of it's:,Grain elongation,Annealing,Cold working,Work hardening,A,"'A' [Phillips' 11th ed 97/ 12th ed 63]
+Ductility is the ability of a metal to be drawn into a wire under tensile load without rupture. Ductility can be measured by percent elongation and cold blend test.
+
+Gold is the most ductile and malleable pure metal, and silver is second. Platinum ranks third in ductility and copper ranks third in malleability.",
+Dental Materials,1. PHYSICAL PROPERTIES,19,The ability of an alloy to withstand mechanical stresses without permanent deformation is reflected by its,Resilience,Elastic limit/ Elastic Strain,Hardness,Fatigue resistance,B,'B' [Phillips' 11th ed 87/ 12th ed 57],
+Dental Materials,1. PHYSICAL PROPERTIES,20,The stiffness of a dental gold alloy is determined by its:,Proportional limit,Modulus of elasticity,Ultimate tensile strength,Flow,B,'B' [Phillips' 11th ed 81/ 12th ed 53],
+Dental Materials,1. PHYSICAL PROPERTIES,21,The ability of the base to resist occlusal forces and to support the restoration is affected by,Compressive strength,Tensile strength,Young's modulus,Modulus of elasticity,A,'A' [Phillips' 11th ed 75/ 12th ed 67],
+Dental Materials,1. PHYSICAL PROPERTIES,22,Coefficient of thermal expansion of which of following is most similar to that of tooth?,Gold inlay,Acrylic resin,Silicate cement,Gold foil,C,"'C' [Phillips' 11th ed 55/ 12th ed 40]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Linear co-efficient of thermal expansion of some materials.</th><th></th></tr></thead><tbody><tr><td>Porcelain</td><td>6.6</td></tr><tr><td>Dentin</td><td>8.3</td></tr><tr><td>Silicate</td><td>10</td></tr><tr><td>Type II GIC</td><td>11</td></tr><tr><td>Enamel</td><td>11.4</td></tr><tr><td>Amalgam</td><td>25</td></tr><tr><td>Denture resins</td><td>81</td></tr><tr><td>Composites</td><td>14-50</td></tr></tbody></table>
+Coefficient of thermal expansion of tooth enamel is closest to type II GIC followed by silicates.",
+Dental Materials,1. PHYSICAL PROPERTIES,23,Flow of a material refers to:,Continued change of the material under a given load,The consistency of a material when mixing,The homogeneicity of gypsum products,Dimensional change of the material during settings,A,"'A' [Phillips' 11th ed 46/ 12th ed 33]
+Flow is the deformation under a small static-load even that associated with its own mass. Flow describes the behaviour of amorphous material such as waxes.",
+Dental Materials,1. PHYSICAL PROPERTIES,24,The wetting of an adherent surface by an adhesive is related to:,Surface energy of the adherent,Surface texture of the adherent,Surface tension of the adherent,Nature of the adherent that is crystalline or amorphous,A,"'A' [Phillips' 11th ed 37/ 12th ed 26]
+The property of wetting and adhesions are directly related to surface energy of adhesives. Substances with low surface energy like Teflon are often used to prevent the adhesion of films to a surface. Metals, because of their high surface energy, interact vigorously with liquid adhesives.
+
+The surface energy of many restorative materials is higher when compared to that of tooth. So there is greater tendency for the surface and margins of restorations to accumulate debris. This property will explain the relatively high incidence of marginal caries seen around dental restorations",
+Dental Materials,1. PHYSICAL PROPERTIES,25,Which of the following properties of dental materials is time dependant,Creep,Resilience,Elastic limit,Ultimate strength,A,'A' [Phillips' 11th ed 46/ 12th ed 33],
+Dental Materials,1. PHYSICAL PROPERTIES,26,Which of the following has the highest modulus of elasticity?,Dentin,Enamel,Amalgam,Composite Resin.,B,"'B' [Phillips' 11th ed 82/ 12th ed 54]
+The elastic modulus of enamel is about three times greater than that of dentin. But dentin is capable of sustaining significant plastic deformation under compressive loading before it fractures. So the enamel is stiffer and more brittle than dentin whereas dentin is more flexible and tougher.",
+Dental Materials,1. PHYSICAL PROPERTIES,27,Which of the following hardness test is a micro hardness test?,Brinnel,Knoop,Shore-A,Rockwell,B,'B' [Phillips' 11th ed 98/ 12th ed 65],
+Dental Materials,1. PHYSICAL PROPERTIES,28,"A restorative material which has a high proportional limit, compared with one with a lower proportional limit would have",Greater ductility,Greater toughness,A higher modulus of elasticity,More resistance to permanent deformation,D,"'D' [Phillips' 11th ed 87/ 12th ed 57,62]",
+Dental Materials,1. PHYSICAL PROPERTIES,29,A fluid having constant viscosity that does not depend upon the strain rate is said to be,Viscoelastic,Pseudoplastic,Plastic,Newtonian,D,"'D' [Phillips' 11th ed 44/ 12th ed 32]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>Newtonian fluid</td><td>Ideal liquid. Shear stress is proportional to the strain state.</td></tr><tr><td>Dilatant fluid</td><td>Viscosity of the liquid increases with increase of shear stress</td></tr><tr><td>Thixotropic fluid</td><td>Viscosity of the fluid decreases under pressure</td></tr><tr><td>Pseudoplastic fluid</td><td>Viscosity decreases with increase in shear stress until they reach a constant value.</td></tr><tr><td>Visco elastic</td><td>A characteristic of polymers that behave as elastic solids (springs) and as viscous liquids (dashpots)</td></tr></tbody></table>",
+Dental Materials,1. PHYSICAL PROPERTIES,30,Liquids which become more rigid as the rate of deformation increases is termed as,Thixotropic,Pseudoplastic,Dilatant,Newton,C,'C' [Phillips' 11th ed 45/ 12th ed 33],
+Dental Materials,1. PHYSICAL PROPERTIES,31,Which one of the following is the result of applying a load to a wire below its modulus of elasticity on a load deflection diagram?,Fracture of the wire,Permanent deformation,Spring back,Increase in stiffness,C,"'C' [Phillips' 11th ed 622/ 12th ed 54]
+'Spring back' is the amount of elastic strain that a metal can recover when loaded to and unloaded from its yield strength or modulus of elasticity",
+Dental Materials,1. PHYSICAL PROPERTIES,32,The flexural strain that occurs when a material is stressed to its proportional limit is:,Resilience,Maximum flexibility,Toughness,Elastic limit,B,"'B' [Phillips' 11th ed 84/ 12th ed 55]
+Maximum flexibility is defined as the flexural strain that occurs when the material is stressed to its proportional limit.",
+Dental Materials,1. PHYSICAL PROPERTIES,33,KHN of enamel is close to:,Pure gold,Amalgam,Porcelain,Composite,C,"'C' [Check Explanation Below]
+Knoop hardness value is independent of the ductility of the tested material. Some KHN values are
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Material</th><th>KHN</th></tr></thead><tbody><tr><td>Enamel</td><td>340</td></tr><tr><td>Amalgam</td><td>90</td></tr><tr><td>Composite</td><td>55</td></tr><tr><td>Pure gold</td><td>75</td></tr><tr><td>Porcelain</td><td>412</td></tr></tbody></table>",
+Dental Materials,1. PHYSICAL PROPERTIES,34,Space lattice refers to:,Inter atomic movement,Inter atomic imbalance,Arrangement of atoms,Arrangement of molecules,C,"'C' [Phillips' 11th ed 30/ 12th ed 20]
+A space lattice can be defined as any arrangement of atoms in space in which every atom is situated similarly to every other atom. Space lattices may be the result of primary or secondary bonds.
+
+There are 14 possible lattice types but many of the metals used in dentistry belong to the cubic system.",
+Dental Materials,1. PHYSICAL PROPERTIES,35,The elastic or plastic deformation to fracture a material is its:,Toughness,Brittleness,Young's Modulus,Proportional limit,A,"'A' [Phillips' 11th ed 74/ 12th ed 62]
+""Toughness"" (KAR-2013) is the ability of a material to absorb elastic energy and to deform plastically before fracturing. It is measured as the total area under a plot of tensile stress versus tensile strain.
+
+""Fracture toughness"" is the stress factor at the beginning of rapid crack propagation in a solid containing a crack of known shape and size.",
+Dental Materials,1. PHYSICAL PROPERTIES,36,Munsell system is used to:,Define and measure colour qualitatively,Define and measure physical properties of gold alloys,Evaluate brittleness of different alloys,Measures different colours quantitatively,D,"'D' [Manappallil 2nd ed 23]
+One of the most commonly used method to define and measure colour quantitatively is the ""MUNSELL SYSTEM"". In this system the parameters of color are represented in 3 dimensions. (COMEDK-08)",
+Dental Materials,1. PHYSICAL PROPERTIES,37,The knoop Hardness Number of Microfilled Composite Restorative material ranges from:,50 - 60 KHN,25 - 35 KHN,15 - 20 KHN,40 - 48 KHN,B,'B' [Phillips' 11th ed 419/ 12th ed 284],
+Dental Materials,1. PHYSICAL PROPERTIES,38,A crystal in metal substructure is:,Grain,Nucleus,Stroma,None,A,"'A' [Phillips' 11th ed 103/ 12th ed 75]
+Grain is a microscopic single crystal in the microstructure of a metallic material. Nucleus is a table cluster of atoms of a new phase that forms within a parent phase, such as during the solidification of a metal.",
+Dental Materials,1. PHYSICAL PROPERTIES,39,Etching of dentin does not include:,Removal of smear layer,Exposure of collagen fibres,Opening of dentinal tubules,Increases surface energy,D,'D' [Phillips' 11th ed 383/ 12th ed 261],
+Dental Materials,1. PHYSICAL PROPERTIES,40,"When two metals are completely miscible in liquid state and they remain completely mixed on solidification,the alloy formed is called",Solid solution,Eutectic mixture,Peritectic mixture,Inter metallic compounds,A,"'A' [Phillips' 11th ed 121/ 12th ed 79]
+The greatest number of alloys that are useful for dental restorations are based on solid solutions.",
+Dental Materials,1. PHYSICAL PROPERTIES,41,Non metal which conducts electricity,Graphite,Carbon,Acrylic,Porcelain,A,"'A' [Check Explanation Below]
+Graphite and Silicone are two non metals that conduct electricity.",
+Dental Materials,1. PHYSICAL PROPERTIES,42,For adhesion to be present between solid and liquid,Liquid should wet solid surface,Mechanical interlocking should be present,Should have high contact angle,None of the above,A,"'A' [Phillips' 11th ed 37/ 12th ed 26]
+To produce adhesion, the liquid must flow easily over the entire surface and adhere to the solid. This characteristic is known as wetting. If the liquid does not wet the surface of the adherend, adhesion between the liquid and the adherend will be negligible or non-existent.",
+Dental Materials,1. PHYSICAL PROPERTIES,43,The melting point of silver is,1063° Centigrade,960° Centigrade,850° Centigrade,1123° Centigrade,B,"'B' [www.chemicalelements.com/element/ag.html]
+The boiling point of silver is 2212 degree centigrade and the melting point is 961.93 degree centigrade.",
+Dental Materials,1. PHYSICAL PROPERTIES,44,Brazilian test is used to determine the ultimate tensile strength of,Ductile materials,Flexible materials,Brittle materials,Malleable materials,C,"'C' [Journal of Biomedical Research 2000; 53(6): 769-80]
+The two different testing techniques used to determine tensile strength are direct tensile test and diametral compression test.
+
+Brazilian cylinder splitting test is type of diametral compression test and is the widely used test to determine the ultimate tensile strength of brittle materials.",
+Dental Materials,1. PHYSICAL PROPERTIES,45,KHN value of Amalgam is,90,343,67,450,A,'A' [Phillips' 11th ed 362 Tab 13-1],
+Dental Materials,1. PHYSICAL PROPERTIES,46,"Angles between Adhesive and Adherent is Zero degree, it indicates:",Complete wetting of surfaces,Rough surfaces between Adhesive & Adherent,Adherent and adhesive molecules are tangent to each other,Irregularities present between Adherent surfaces,A,'A' [Phillips' 11th ed 36/ 12th ed 26],
+Dental Materials,1. PHYSICAL PROPERTIES,47,Maxwell - Voigt Model is to determine:,Elastic Behavior,Plastic Behavior,Viscoelastic Behavior,All the above,C,"'C' [Phillips' 11th ed 213/ 12th ed 163]
+Ideally, the impression material should accurately record oral structures and should be easily removable without distortion from the mouth. The distortion produced during removal should be minimal. Viscoelasticity describes the dependence of an impression material's response to the speed of removal. The simplest modes that demonstrate the visoelastic behaviour is a Maxwell-Voigt model.",
+Dental Materials,1. PHYSICAL PROPERTIES,48,A material which partially transmits light & partially scatters it,Reflector,Translucent,Transparent,Opaque,B,"'B' [Check Explanation Below]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>Opaque</td><td>Do not allow transmission of light</td></tr><tr><td>Translucent</td><td>Scatter the transmitted light</td></tr><tr><td>Transparent</td><td>Does not scatter the transmitted light</td></tr></tbody></table>",
+Dental Materials,1. PHYSICAL PROPERTIES,49,Materials which has high compressive strength and low tensile strength is classified with property of,Ductility,Brittleness,Malleability,Resilient,B,'B' [Phillips' 11th ed 94/ 12th ed 62],
+Dental Materials,1. PHYSICAL PROPERTIES,50,The forces that hold atoms together are called,Primary forces,Secondary forces,Cohesive forces,Ionic forces,C,"'C' [Phillips' 11th ed 23/ 12th ed 18]
+The force which binds atoms is the covalent force.",
+Dental Materials,1. PHYSICAL PROPERTIES,51,The simplest alloy is a,Solid solution,Eutectic alloy,Peritectic alloy,Ternary alloy,A,"'A' [Phillips' 11th ed 121/ 12th ed 79]
+The simplest alloy is a solid solution, in which two metals are located in the same crystal structure such as Face Centered Cubic (FCC), Body Centered Cubic (BCC) and Hexagonal Close Packed (HCP). The structure appears to be entirely homogenous since only one phase is formed during solidification. By far the most number of alloys used for dental restorations are solid solutions. Eutectic alloy is an alloy for which the component metals have limited solid solubility.
+
+Eg: Silver-Copper system (72% silver and 28% copper)",
+Dental Materials,1. PHYSICAL PROPERTIES,52,Coefficient of thermal expansion of tooth enamel is closest to,Silicate cement,Composite,GIC,Polycarboxylate,C,"'C' [Phillips' 11th ed 55/ 12th ed 40]
+The coefficient of thermal expansion of tooth enamel is 11.4. The coefficient of thermal expansion of GIC Type II it is 11.
+
+Peritectic alloy: In addition to the eutectic system, limited solid solubility of two metals can result peritectic transformation.
+Eg: Silver-tin system in amalgam
+Silver-platinum in gold casting alloys",
+Dental Materials,1. PHYSICAL PROPERTIES,53,In measuring Vickers hardness no. which of the following is used:,Spherical indenter,Steel ball indentation,Rhomboid shaped indenter,136-degree diamond pyramid,D,"'D' [Phillips' 11th ed 98/ 12th ed 64]
+For explanation Refer Q. No.8",
+Dental Materials,1. PHYSICAL PROPERTIES,54,Deformation that is recovered upon removal of an externally applied force or pressure is known as,Young's modulus,Plastic strain,Elastic strain,Flexural strain,C,"'C' [Phillips' 11th ed 87/ 12th ed 53]
+- Elastic strain will disappear after the stress is removed, and the material will return to its original state.
+- In plastic strain, the material will not fully recover after the removal of stress. It will occur at stresses above elastic limit.
+- Elastic limit is the greatest stress to which a material can be subjected such that it returns to its original dimensions when the force is removed.
+- Viscoelastic means combination of elastic and plastic strain, but recovery of only elastic strain occurs as the stress is decreased. The process of recovery occurs over time.",
+Dental Materials,1. PHYSICAL PROPERTIES,55,A good adhesive should possess all of the following EXCEPT,High adherend wetting,High contact angle,Low contact angle,High flow,B,"'B' [Phillips' 11th ed 37/ 12th ed 26]
+Refer Q. No. 12",
+Dental Materials,1. PHYSICAL PROPERTIES,56,Molecule with permanent dipole,Oxygen,Helium,Liquid nitrogen,Water,D,"'D' [Phillips' 12th ed 20]
+Primary bonds:
+- Also called as chemical bonds and form strong bonds between atoms
+- They are result of atoms losing, acquiring or sharing electrons with other atoms to achieve a stable configuration
+Eg: Ionic bonds, Covalent bonds & Metallic bonds
+
+Secondary bonds:
+- These are weaker bonds
+- They do not share electrons. Instead, charge variations among atomic groups of the molecule induce dipole forces that attract adjacent molecules or part of a large molecule.
+Eg: Vander waals forces
+
+Vander waals forces:
+- They arise from dipole attractions that is +ve is attracted to the -ve and vice-versa.
+- In case of polar molecules, the attraction and repulsion between molecules are induced by a permanent dipole movement from asymmetrical electron distribution within a molecule. Eg: Water
+- In case of non-polar molecules, a temporary (fluctuating) dipole occurs when the symmetrical distribution of electrons in a molecule becomes asymmetrical temporarily.
+Eg: Benzene
+
+Note:
+- The electronic structure of an atom is relatively stable if it has 8 electrons in its outer valence shell. Eg: noble gases except helium.
+- Helium has only 2 electrons, still it is stable.",
+Dental Materials,1. PHYSICAL PROPERTIES,57,Amount of heat that is required to change boiling water into vapor is referred to as,Latent Heat of vaporization,Latent Heat of sublimation,Latent Heat of condensation,Latent heat of fusion,A,"'A' [Phillips' 12th ed 18]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Term</th><th>Description</th></tr></thead><tbody><tr><td>Heat of vaporization</td><td>When water boils, energy is needed to transform liquid to vapour. This energy is called heat of vaporization</td></tr><tr><td>Latent heat of fusion</td><td>Change from solid to liquid require additional energy called latent heat of fusion</td></tr><tr><td>Sublimation</td><td>Solids change directly to vapour. Eg: dry ice</td></tr></tbody></table>
+
+Energy require to liquefy a solid is known as (APPG-2016)
+a) Latent heat of fusion (correct answer)
+b) Sublimation
+c) Vaporisation
+d) Condensation",
+Dental Materials,1. PHYSICAL PROPERTIES,58,Time dependent deformation produced in a completely set solid subjected to a constant stress is termed as,Static creep,Elongation,Dynamic creep,Flexibility,A,"'A' [Phillips' 12th ed 33]
+Creep is the time dependant plastic deformation (strain). When a metal is held at temperature near its melting point and is subjected to stress, the resulting strain will increase over time and is called as creep. When the applied stress is constant it is called as static creep and if the applied stress is fluctuating such as masticatory forces it is called dynamic creep.",
+Dental Materials,1. PHYSICAL PROPERTIES,59,The type of strain develop when force is applied perpendicular to surface,Compressive strain,Tensile strain,Shear stress,Tensile stress,A,"'A' [Phillips' 1st SA ed 53]
+The stress that is created when a force is applied perpendicular to surface is compressive stress. A compressive stress is associated with a compressive strain.",
+Dental Materials,1. PHYSICAL PROPERTIES,60,Ductility Represents,Percent elongation,Plastic strain,Flexural stress,Percentage depression,A,"'A' [Rama Krishna Alla 1st ed 20-21]
+Ductile materials show large amount of plastic deformation under tensile stresses. Usually, the deformation in ductile (increase in length) materials is measured in terms of Percent elongation.",
+Dental Materials,1. PHYSICAL PROPERTIES,61,"Angle of wetting is zero, it reflects that attraction between the molecules is",Molecules of adhesive are attracted to molecules of adherend as much as or more than they are attracted to themselves.,Molecules of adhesive are attracted to molecules of adherend less than they are attracted to themselves,Molecules of adhesive are attracted to molecules of adherend exactly same as they are attracted to themselves,No such correlation,A,"'A' [Rama Krishna Alla 1st ed 14-15]
+The extent to which an adhesive wets the surface of an adherent may be determined by measuring the contact angle between adhesive and the adherent. If the molecules of adhesive are attracted to the molecules of the adherent, the liquid adhesive will spread completely over the surface of the solid with resultant wetting angle of zero degrees. If the energy of the surface of the adherent is reduced slightly by contamination or other means, the surface tension of solid decreases and a slight increase in the contact angle can be measured.
+
+A very high contact angle may be formed in the case of solids with low surface energy, such as ""poly tetra flouroethylene"" (Teflon).
+- Contact angle α 1/wetting
+- Contact angle α 1/Surface energy
+- Contact angle α 1/Adhesion
+- Contact angle α surface tension.",
+Dental Materials,1. PHYSICAL PROPERTIES,62,Stiffness is?,Resistance to elastic deformation,Degree of elastic deformation,Resistance to plastic deformation,Degree of plastic deformation,A,"'A' [Rama Krishna Alla 1st ed 19]
+Stiffness/rigidity is the resistance of the material to elastic deformation, i.e. a material, which suffers a slight deformation under a given load, has a high degree of stiffness. Relative stiffness or rigidity of a material with in the elastic range is called as modulus of elasticity.",
+Dental Materials,1. PHYSICAL PROPERTIES,63,"At low levels of light, the colour perception of the eyes is lost. As the brightness becomes more intense, colour appears to change. This phenomenon is known as",Metamerism,Fluorescence,Reflection Effect,Bezold-Brucke effect,D,"'D' [Philip's 12th ed 38]
+Signals of color are sent to the human brain from three sets of receptors in the retina called cones, which are especially sensitive to red, blue and green. Factors that interfere with the true perception of colour generally include low or high light levels, fatigue of colour receptors, sex, age, memory and cultural background. At low light levels, the rods in the retina of the human eye are more dominant than the cones, and colour perception is lost. As the brightness becomes more intense, colour appears to change. This phenomenon is called Bezold-brucke effect.",
+Dental Materials,1. PHYSICAL PROPERTIES,64,A wetting agent enhances,Adhesion,Cohesion,Surface tension,Ionic bonding,A,"'A' [Rama Krishna Alla 1st ed 14-15]
+To produce adhesion, the liquid must flow easily over the entire surface and adhere to the solid; this character is referred to as ""wetting"". Wetting agent spreads properly on the substrate and promotes adhesion.
+
+Factors affecting wetting:
+- The surface of the adherend should be clean.
+- The surface energy of the adherend should be high so that the liquids wet their surface.
+- There should not be any irregularities.",
+Dental Materials,1. PHYSICAL PROPERTIES,65,Match the following and choose the best combination,ABCD = QPSR,ABCD = SRQP,ABCD = SPQR,ABCD = QSPR,D,"'D' [Refer Synopsis]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Item</th><th>Description</th><th>Match</th><th>Definition</th></tr></thead><tbody><tr><td>A. Brittleness</td><td></td><td>P</td><td>Resistance of a material to plastic deformation</td></tr><tr><td>B. Ductility</td><td></td><td>Q</td><td>Relative inability of a material to deform plastically before it fractures</td></tr><tr><td>C. Hardness</td><td></td><td>R</td><td>Change in dimension per unit initial dimension</td></tr><tr><td>D. Strain</td><td></td><td>S</td><td>Relative ability of a material to elongate plastically under a tensile stress</td></tr></tbody></table>
+(Match: A=Q, B=S, C=P, D=R giving ABCD = QSPR)",
+Dental Materials,2. IMPRESSION MATERIALS,1,The zinc oxide-eugenol impression pastes harden by,Chemical reaction,Cold,Heat,Pressure,A,"'A' [Phillips' 11th ed 209/ 12th ed 179]
+The chemical reaction consists of hydrolysis of zinc oxide, which reacts with eugenol to form zinc eugenolate, which is a chelate. Water is needed to initiate the reaction and it is also a bye-product of the reaction. This reaction is also known as autocatalytic reaction. Zinc acetate, high temperature and humid environment accelerate the setting reaction.",
+Dental Materials,2. IMPRESSION MATERIALS,2,4th state of matter is,Solid,Liquid,Gas,Colloid,D,"'D' [Phillips' 11th ed 231/ 12th ed 168]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>Solution</td><td>Solute which is completely soluble and not visible in solvent</td></tr><tr><td>Suspension</td><td>Larger, visible, non-soluble particles (such as sand in water) in solvent. It exists as 2-phase system</td></tr><tr><td>Emulsion</td><td>Liquid droplets which are suspended in water</td></tr><tr><td>Colloids (or) sols</td><td>Lies between small molecules in solution and very large particles in suspension. It also exists in 2 phases.</td></tr></tbody></table>
+Colloidal substances may be combinations of any states of matter.
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Combination</th><th>Term</th></tr></thead><tbody><tr><td>Liquids or solids in air</td><td>Aerosols</td></tr><tr><td>Gases / liquids / solids in liquid</td><td>Lysosols</td></tr><tr><td>Gases in solids</td><td>Foams</td></tr><tr><td>Liquids in solids</td><td>Solid emulsions</td></tr><tr><td>Solids in solid</td><td>Solid suspension</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,3,All of the following statements about Type II silicon impression material are true EXCEPT,They evolve hydrogen when cast if they are not fully cured,They exhibit a very low setting shrinkage,They have a lower tear resistance than polysulphide rubbers,They set by condensation polymerisation,D,"'D' [Phillips' 11th ed 214/ 12th ed 154]
+Addition silicones are the type II silicone impression materials, which undergo addition type of polymerization reaction terminating in vinyl groups and cross-linked with hydride groups.
+
+The advantages of addition silicone are:
+- Dimensional stability
+- Adequate tear strength (but less than polysulphide)
+- Agreeable odor and color
+- Multiple casts can be made from one impression.
+- No volatile byproduct",
+Dental Materials,2. IMPRESSION MATERIALS,4,All of the following statements about an alginate impression are true EXCEPT,It should be rapidly displaced from the mouth,It may exhibit fluid exudates on the surface as a result of imbibition of water,It will take up water and expand if kept wet,It will shrink as a result of syneresis,B,"'B' [Phillips' 11th ed 246/ 12th ed 174]
+Fluid exuded from the impression seen as droplets on surface are called syneresis whereas absorption of water by the impression when placed in water is called Imbibition.",
+Dental Materials,2. IMPRESSION MATERIALS,5,All of the following can be used to slow down the setting of zinc oxide eugenol impression paste EXCEPT,Adding a small amount of glycerine,Adding a small amount of water,Altering the amounts of the two pastes used,Cooling mixing slab,B,"'B' [Phillips' 11th ed 253/ 12th ed 179]
+Adding a small amount of water accelerates the setting reaction of zinc oxide eugenol impression paste and thereby decreases the setting time.",
+Dental Materials,2. IMPRESSION MATERIALS,6,Type I and type II zinc oxide impression paste differ with respect to,Their use,Their hardness after setting,Water content,Eugenol content,B,"'B' [Phillips' 11th ed 253/ 12th ed 178]
+Type I ZOE paste (Hard) sets in 10 minutes and type II ZOE paste (soft) sets in 15 minutes.",
+Dental Materials,2. IMPRESSION MATERIALS,7,Hysteresis in a hydrocolloid gel is,Moisture absorption,Temperature lag between gelation and liquefaction temperature,Phenomenon of conversion of gel into sol,All of the above,B,"'B' [Phillips' 11th ed 235/ 12th ed 170]
+Hysteresis is exhibited by agar, which is a reversible hydrocolloid impression material.",
+Dental Materials,2. IMPRESSION MATERIALS,8,The term given to the phenomenon of moisture absorption by an alginate impression is,Imbitition,Syneresis,Hysteresis,Gelation,A,'A' [Phillips' 11th ed 246/ 12th ed 174],
+Dental Materials,2. IMPRESSION MATERIALS,9,The base paste of the condensation poly silicone has a low molecular weight dimethyl siloxane with a terminal-group,Mercaptan group,Hydroxyl group,Silane group,Vinyl group,B,"'B' [Phillips' 11th ed 213/ 12th ed 154]
+Condensation silicon polymers terminate in hydroxyterminated polydimethyl siloxane groups. Addition silicone (Poly vinyl siloxane) polymers terminate in vinyl groups.",
+Dental Materials,2. IMPRESSION MATERIALS,10,The impression with the least dimensional change upon disinfection is,Addition poly silicone,Agar-agar,Polysulphide,Polyether,A,"'A' [Phillips' 11th ed 222-24 Fig 9-10/ 12th ed 165 Fig 8-14]
+Addition silicones have very little residual polymerization, making them the most dimensionally stable of all the dental materials. They are also highly biocompatible impression materials.",
+Dental Materials,2. IMPRESSION MATERIALS,11,Best material for duplicating cast is,Agar-agar,Alginate,Zinc oxide eugenol,Plaster of paris,A,"'A' [Phillips' 11th ed 245]
+Agar and alginate both are useful for duplicating casts or models. But the most popular is agar because it can be used many times.",
+Dental Materials,2. IMPRESSION MATERIALS,12,Palladium is added to polyvinyl siloxane to,Act as a scavenger,Helps as surfactant,Acts as plasticizer,Acts as a catalyst,A,"'A' [Phillips' 11th ed 215/ 12th ed 154]
+Impurities evolve hydrogen gas from addition silicone, which produces pint point voids in the stone casts, if poured immediately after removing from mouth.
+
+This can be prevented by adding platinum or palladium to act as scavenger or by waiting an hour before pouring up the impression.",
+Dental Materials,2. IMPRESSION MATERIALS,13,Syneresis seen in a hydrocolloid gel is,Seen as water loss,Water absorption,Shrinkage,Gelation,A,"'A' [Phillips' 11th ed 234/ 12th ed 174]
+The gel may loose water by evaporation or by exudation of fluid onto the surface by syneresis. Both of them lead to shrinkage of gel. So casts should be poured immediately for hydrocolloid materials or else wrapped in moist towel to create 100% humidity.",
+Dental Materials,2. IMPRESSION MATERIALS,14,Immediate pouring of impressions is most critical in,Condensation polysilicon,Addition Polysilicon,Polyether,A and B,A,"'A' [Phillips' 11th ed 224/ 12th ed 154]
+Ethyl alcohol is the bye product of condensation setting reaction. Contraction occurs if the bye product evaporates in a set silicone rubber. So casts are poured immediately after taking impression from mouth.",
+Dental Materials,2. IMPRESSION MATERIALS,15,Impression techniques are used for recording,Oral mucosal tissues,Dental hard tissues,Oral mucosal tissues and dental hard tissues,None of the above,C,'C' [Phillips' 11th ed 207/ 12th ed 152],
+Dental Materials,2. IMPRESSION MATERIALS,16,The impression material used to record the prepared areas on abutment teeth is,High viscosity elastomeric impression material,Medium viscosity elastomeric impression material,Low viscosity elastomeric impression material,None of the above,C,'C' [Phillips' 12th ed 160],
+Dental Materials,2. IMPRESSION MATERIALS,17,Vulcanization refers to the setting of:,Reversible hydrocolloid,Mercaptan impression material,Zinc phosphate cement,Zinc oxide-eugenol,B,"'B' [Phillips' 11th ed 212/ 12th ed 153]
+Vulcanization is a cross linking process that involves sulphide mercaptan groups. Polysulphide impression materials are also called as vulcanizing materials or mercaptan materials. The mercaptan groups give polysulphides their characteristic odor.",
+Dental Materials,2. IMPRESSION MATERIALS,18,Alginate impression material is:,Non-elastic impression material,Thermoplastic impression material,More mucostatic than ZOE,Less mucostatic than ZOE,D,"'D' [Phillips' 11th ed 208/ 12th ed 153]
+""ZOE impression paste"" and ""plaster of paris"" are called mucostatic impression materials because they do not compress the tissue during seating of the impression. They are ideal for making impressions of edentulous structures.
+
+Impression compound and elastomers are mucocompressive.",
+Dental Materials,2. IMPRESSION MATERIALS,19,Impression plaster is:,Less compressive than alginate,More compressive than alginate,As compressive as alginate,More compressive than hydrocolloids,A,"'A' [Phillips' 11th ed 208/ 12th ed 153]
+Impression plaster is rigid impression material. It records tissues in anatomic form (does not compress), so called as mucostatic impression material. Alginates and waxes are other examples of mucostatic impression materials.",
+Dental Materials,2. IMPRESSION MATERIALS,20,Syringe material is,High viscosity elastomer,Medium viscosity elastomer,Medium & Low viscosity elastomer,Low viscosity elastomer,D,"'D' [Phillips' 11th ed 221/ 12th ed 157, 158]",
+Dental Materials,2. IMPRESSION MATERIALS,21,Setting time of ZOE is best controlled by,Adding a drop of eugenol,Adding a drop of water,Cooling the glass slab,Altering ratio of two pastes,C,'C' [Phillips' 11th ed 253/ 12th ed 179],
+Dental Materials,2. IMPRESSION MATERIALS,22,The impression for a diagnostic cast of a partial edentulous mouth should be taken in:,Impression wax,Modelling compound,Hydro-colloid,Hydro cal,C,"'C' [Phillips' 11th ed 208/ 12th ed 176]
+Impression compound and impression plaster are useful for making impressions of edentulous ridges. Hydrocolloids are useful for partial edentulous mouth impressions.",
+Dental Materials,2. IMPRESSION MATERIALS,23,Sol- gel transformation is seen in,Impression plaster,Hydrocolloids,Elastomer,Impression compound,B,'B' [Phillips' 11th ed 234/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,24,Agar impression materials differ from alginate impression materials in that the former sets by:,Mechanical action of saliva,Physical change,Evolution,Chemical change,B,"'B' [Phillips' 11th ed 208/ 12th ed 153]
+Setting reaction of agar and impression compound is a function of temperature and is a physical change. These are called as thermoplastic material.",
+Dental Materials,2. IMPRESSION MATERIALS,25,The basic constituent of reversible hydrocolloid impression material is,Agar,Alginic acid,Gelatin,alginate,A,"'A' [Phillips' 11th ed 235/ 12th ed 170]
+The basic constituent of agar impression material is agar which is a polysaccharide extracted from seaweed. It is a sulfuric ester of galactose. But the principal ingredient by weight is water (80%).",
+Dental Materials,2. IMPRESSION MATERIALS,26,Which material undergoes hysteresis?,Irreversible hydrocolloid,Reversible hydrocolloid,Impression plaster,Metallic oxide paste,B,"'B' [Phillips' 11th ed 235/ 12th ed 170]
+Agar-agar is the true hydrophilic impression material.",
+Dental Materials,2. IMPRESSION MATERIALS,27,"Before pouring an elastic impression, it is washed with slurry of water and stone to:",Increase gel strength,Prevent syneresis,Prevent distortion,Wash off saliva on impression,D,"'D' [Phillips' 11th ed 248/ 12th ed 161]
+Saliva and blood retards the setting reaction of gypsum so these must be removed by washing the impression before pouring it.",
+Dental Materials,2. IMPRESSION MATERIALS,28,The setting time of irreversible hydrocolloids can be decreased by:,Raising the temperature of water used for mixing,Using excess water for mixing,Lowering the temperature of water used for mixing,None of the above,A,"'A' [Phillips' 11th ed 242/ 12th ed 174]
+The higher the temperature of mixing water, the faster is the gelation. The clinician can safely influence the gelation time by controlling the temperature of mixing water. But the best way to control the gelation time is by adding retarders like trisodium phosphate during manufacturing.",
+Dental Materials,2. IMPRESSION MATERIALS,29,Electroplate silver die material is best compatible with all EXCEPT,Addition silicones,Polysulfides,Polyethers,Condensation silicones,C,"'C' [Philip's 12th ed 166]
+The polyether impression material has the capability to absorb water or fluids and the simultaneous leaching of the water-soluble plasticizer when stored in disinfectant solutions or during electroplating procedures. This will be resulting in dimensional changes. Thus, the polyether impression should be stored in a dry (relative humidity below 50%), cool environment to maintain its accuracy and should never be left for protracted periods in disinfecting solutions and cannot be electroplated.",
+Dental Materials,2. IMPRESSION MATERIALS,30,Rubber base impressions are poured immediately as they:,Continue to polymerize,Show imbibition and syneresis,Become elastic,Show gelation,A,"'A' [Phillips' 11th ed 227/ 12th ed 161]
+The rubber base impression materials or polysulphides have residual polymerization i.e., they continue to polymerize for some time even after setting and the bye-products of polymerization may be lost if impressions are not poured immediately. Both of them result in shrinkage of the impression.",
+Dental Materials,2. IMPRESSION MATERIALS,31,Heavy and light body impression materials are used with:,Mercaptan,Silicone,Reversible hydrocolloid,A and B,D,'D' [Phillips' 11th ed 210/ 12th ed 153],
+Dental Materials,2. IMPRESSION MATERIALS,32,The most mucostatic impression material is,Thin mix of plaster of paris,Zinc oxide eugenol impression paste,Free flowing wax,Reversible hydrocolloids,A,'A' [Phillips' 11th ed 208/ 12th ed 117],
+Dental Materials,2. IMPRESSION MATERIALS,33,Impression compound has which of the following characteristic property?,Low thermal conductivity,High flow property,Degradation in presence of moisture,Remain distortion free up to 72 hrs. pouring can be safely delayed,A,"'A' [Phillips' 11th ed 251/ 12th ed 178]
+Impression compound has low thermal conductivity. To overcome this the following is done:
+- During softening of material, the outside will soften first and inside last. So to ensure uniform softening, the material should be kept immersed for a long time in the water bath.
+- The layer adjacent to the mouth-tissues will remain soft. Therefore, it is important to cool the compound thoroughly before removing the impression.",
+Dental Materials,2. IMPRESSION MATERIALS,34,The best way to remove a hydrocolloid impression from the patient's mouth is:,Slight rocking of the impression to disengage it from the undercut,Wetting the periphery of the impression with moist cotton to break the peripheral seal,Sudden jerking of the impression to prevent tearing,Supporting the impression along with the tray to prevent disengaging of the tray alone,C,"'C' [Phillips' 11th ed 237/ 12th ed 174]
+Hydrocolloids and elastomers should be removed with a sudden quick motion because these are Viscoelastic materials and a quick force causes less permanent deformation. Weaving and teasing forces cause distortion or tearing.",
+Dental Materials,2. IMPRESSION MATERIALS,35,Agar syringe material can be used with/as,Agar,Alginate,Both of the above,Primary impression,C,"'C' [Phillips' 11th ed 245/ 12th ed 176]
+Laminate technique combines agar-alginate in which chilled alginate replaces the tray agar. Alginate gels by chemical reaction and agar gels by means of contact with cold alginate.
+
+Agar is also used in triple tray technique i.e, one impression records the maxillary, mandibular arches along with their occlusion.",
+Dental Materials,2. IMPRESSION MATERIALS,36,Palatal secretions affect the setting of all the impression materials except:,Silicone,Agar-agar,Impression paste,Impression plaster,B,"'B' [Phillips' 11th ed 237/ 12th ed 170]
+Agar-agar is the true hydrophilic impression material.",
+Dental Materials,2. IMPRESSION MATERIALS,37,Trisodium phosphate added to alginate contributes towards:,Increasing the working time,,,,A,"'A' [Phillips' 11th ed 241/ 12th ed 172]
+Trisodium phosphate (Retarder) reacts with CaSO4 preferably than alginate and thus prolongs the working time.
+
+Retarder in Alginate is (AIPG-2015)
+a) Calcium sulphate
+b) Sodium phosphate (correct answer)
+c) Potassium alginate
+d) Diatomaceous earth
+
+Note: Only option A of this question was legible in the source scan; options B-D were cut off.",
+Dental Materials,2. IMPRESSION MATERIALS,38,Lenolin is added in ZOE paste to:,Decrease flow,Increase flow,Accelerate reaction,Decrease irritation due to eugenol,B,"'B' [Phillips' 11th ed 252/ 12th ed 178]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Base paste</th></tr></thead><tbody><tr><td>ZnO</td><td>Main ingredient (87%)</td></tr><tr><td>Vegetable oil</td><td>Decreases the irritant action of eugenol</td></tr></tbody></table>
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Accelerator paste</th></tr></thead><tbody><tr><td>Oil of cloves / Eugenol</td><td>Clove oil reduces burning sensation</td></tr><tr><td>Rosin</td><td>Accelerates and gives smoother product</td></tr><tr><td>Filler</td><td>Silica type</td></tr><tr><td>Lanolin, Resinous balsam</td><td>increases flow</td></tr><tr><td>Zinc acetate or CaCl2</td><td>Accelerator</td></tr></tbody></table>
+
+Base paste in zinc oxide eugenol impression paste consists of all of the following except
+a) Oil of cloves
+b) Zinc oxide
+c) Mineral oil (correct answer)
+d) Fixed vegetable oil",
+Dental Materials,2. IMPRESSION MATERIALS,39,Tear strength for impression material is highest for:,Condensation silicone,Alginate,Poly sulfide,Addition silicone,C,'C' [Phillips' 11th ed 228/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,40,Agar is prepared from,Bullock heart,Chemicals,Sea weed,Chick cells,C,'C' [Phillips' 11th ed 235/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,41,Elastomers are,Alginate,Agar,Polyethers,Imp. Compound,C,"'C' [Phillips' 11th ed 210/ 12th ed 153]
+Four types of elastomers are - Polysulphide, addition silicone, condensation silicone and polyether.",
+Dental Materials,2. IMPRESSION MATERIALS,42,Perforated impression tray are used for:,Alginate,Zinc oxide- eugenol,Agar-agar,Impression compound,A,"'A' [Phillips' 11th ed 243/ 12th ed 173]
+By using perforated trays, the impression adheres to the tray so that the impression can be withdrawn from around the teeth. When rim lock tray is selected, a tray adhesive should be used.",
+Dental Materials,2. IMPRESSION MATERIALS,43,ADA specification number for non- aqueous elastomeric dental impression material is:,19,20,21,26,A,'A' [Phillips' 11th ed 210/ 12th ed 165],
+Dental Materials,2. IMPRESSION MATERIALS,44,During setting of alginate impression materials,Trisodium phosphate reacts with sodium alginate,Trisodium phosphate reacts with calcium sulphate,Colloidal gel changes to sol,Material in contact with soft tissues sets last,B,'B' [Phillips' 11th ed 241/ 12th ed 174],
+Dental Materials,2. IMPRESSION MATERIALS,45,Which of the following impression material is elastic:,Impression compound,Zinc oxide eugenol (ZOE) paste,Wax,Polyvinyl siloxane,D,'D' [Phillips' 11th ed 208/ 12th ed 153],
+Dental Materials,2. IMPRESSION MATERIALS,46,Trisodium phosphate in alginate acts as:,Retarder,Reactor,Accelerator,Plasticizer,A,'A' [Phillips' 11th ed 240/ 12th ed 173],
+Dental Materials,2. IMPRESSION MATERIALS,47,K2SO4 in agar-agar is for:,Accelerating the setting stage of gypsum,Give dimensional stability,Increase strength,None of the above,A,"'A' [Phillips' 11th ed 235/ 12th ed 172]
+Potassium sulphate in agar accelerates the setting reaction of gypsum and helps to counteract the retarding effect of water and borax of agar on gypsum.",
+Dental Materials,2. IMPRESSION MATERIALS,48,Wash or corrective impression is done by:,Impression plaster,Impression paste,Alginate,Rubber base impression material,B,'B' [Phillips' 10th ed 182/ 12th ed 160],
+Dental Materials,2. IMPRESSION MATERIALS,49,Hypersensitivity reactions like contact dermatitis can be caused by,polysulfides,condensation silicones,addition silicones,polyether,D,"'D' [Phillips' 11th ed 229/ 12th ed 167]
+Contact dermatitis and hypersensitivity potential exists with polyether impression material. Lowest cell cytotoxicity is with polysulfide and highest with polyether impression material.",
+Dental Materials,2. IMPRESSION MATERIALS,50,The plasticizers used in polyether impression material is:,Polyether polymer,Colloidal silica,Glycol ether,Di-vinyl poly (dimethyl siloxane),C,"'C' [Phillips' 11th ed 216/ 12th ed 155]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Base paste of polyether</th></tr></thead><tbody><tr><td>Polyether polymer</td><td>Main ingredient</td></tr><tr><td>Colloidal silica</td><td>Filler</td></tr><tr><td>Glycol ether</td><td>Plasticizer</td></tr></tbody></table>
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Accelerator paste</th></tr></thead><tbody><tr><td>Alkyl aromatic sulfonate</td><td>Main ingredient</td></tr><tr><td>Colloidal silica</td><td>Filler</td></tr><tr><td>Glycol ether</td><td>Plasticizer</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,51,Impression compound base:,Low thermal conductivity,Crystalline structure,Formation of cross linkage with heating,High fusion temperature,A,'A' [Phillips' 11th ed 251/ 12th ed 178],
+Dental Materials,2. IMPRESSION MATERIALS,52,In reversible hydrocolloid the property by which the transformation from sol to gel and gel to sol is a function of the:,Concentration of fillers and plasticizer,Percentage composition by weight of water,Concentration of potassium sulphate,Temperature,D,'D' [Phillips' 11th ed 234/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,53,One of the most important advantages of truly elastic impression material would be its capacity for:,Close adaptation to soft tissues,With drawl without permanent distortion,Reproduction of surface details,Compatibility with gypsum products,B,'B' [Phillips' 12th ed 153],
+Dental Materials,2. IMPRESSION MATERIALS,54,Alginates are,Sol,Gel,Hydrocolloid,Colloid,C,'C' [Phillips' 11th ed 234/ 12th ed 171],
+Dental Materials,2. IMPRESSION MATERIALS,55,Inelastic impression material is,Impression compound,Alginate,Agar-agar,Polyether,A,'A' [Phillips' 11th ed 209/ 12th ed 153],
+Dental Materials,2. IMPRESSION MATERIALS,56,Syneresis is associated with,Hydrocolloids,Elastomers,Zinc oxide eugenol,Plaster of paris,A,'A' [Phillips' 11th ed 234/ 12th ed 174],
+Dental Materials,2. IMPRESSION MATERIALS,57,Material causing minimum tissue distortion is:,Polysulphide,Silicone,Impression plaster,Zinc oxide eugenol paste,C,'C' [Phillips' 11th ed 208/ 12th ed 177],
+Dental Materials,2. IMPRESSION MATERIALS,58,The advantage of ZOE impression paste:,Has dimensional stability,Does not adhere to tissues,Is easy manipulation,Does not require special trays,A,"'A' [Phillips' 11th ed 253/ 12th ed 179]
+The main advantage of ZOE paste is its dimensional stability. ZOE paste is used for making final or wash impression of edentulous ridges, bite registration, post surgical pack, temporary reliner, root canal filler, temporary filling material and leuting agent, etc. ZOE paste is the most commonly used (BHU-07) wash impression material for edentulous jaw.",
+Dental Materials,2. IMPRESSION MATERIALS,59,"""Brush heap"" structure is found in:",Polyether,Agar,Condensation silicone,ZOE impression material,B,'B' [Phillips' 11th ed 234/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,60,Rinsing of the impression is important to,Remove excess impression material,Remove saliva,Hydrate the impression,Accelerate the setting,B,'B' [Phillips' 11th ed 248/ 12th ed 161],
+Dental Materials,2. IMPRESSION MATERIALS,61,Gelation temperature of agar is between,20°C to 25°C,27°C to 33°C,37°C to 50°C,55°C to 60°C,C,"'C' [Phillips' 11th ed 235/ 12th ed 170]
+Agar liquefaction temperature is 70-100°C and gelation temperature is 37-50°C",
+Dental Materials,2. IMPRESSION MATERIALS,62,Which is best material for RPD impression,Impression plaster,Irreversible hydrocolloid,Reversible hydrocolloid,None of the above,B,"'B' [Phillips' 11th ed 234/ 12th ed 176]
+Alginate is most widely used and most versatile for RPD impressions.",
+Dental Materials,2. IMPRESSION MATERIALS,63,Alginate impression material is similar to agar-agar impression material in the following respect:,Gelation increases in both on increase in temperature,Mixing time is increased to reduce the setting time,Deformation during removal of impression occurs due to distortion of gel fibers,Both can be re-used for fresh impressions,C,"'C' [Phillips' 11th ed 239/ 12th ed 174, 176]",
+Dental Materials,2. IMPRESSION MATERIALS,64,The minimum thickness of an alginate impression material should be,8 mm,3 mm,6 mm,5 mm,B,"'B' [Philip's 12th ed 173]
+Alginate is a weak material; therefore, a sufficient bulk of material is needed. The thickness of the alginate impression between the tray and the tissues should be at least 3 mm.",
+Dental Materials,2. IMPRESSION MATERIALS,65,Hardening solutions are used with impression made of,Hydrocolloid,Impression compound,Elastomer,Zinc oxide eugenol,A,"'A' [Phillips' 11th ed 247/ 12th ed 175]
+Gypsum products are not compatible with the hydrocolloid impression materials. The casts will become soft. This can be prevented by incorporating hardening solutions in the impression material during manufacturing or by immersing the impression in an accelerator solution for the setting of gypsum. The hardening solutions are 2% potassium sulphate for agar and titanium fluoride for alginate materials.",
+Dental Materials,2. IMPRESSION MATERIALS,66,Use of reversible hydrocolloid needs,Two thermostatically controlled water baths,Three thermostatically controlled water baths,Four thermostatically controlled water baths,Five thermostatically controlled water baths,B,"'B' [Philip's 12th ed 170]
+Making the Agar impression requires a three-compartment conditioning unit for the agar tray material that allows liquefaction (at 100°C), storage (65°C), and tempering (45°C), while the agar syringe material is used only in the liquefaction and storage compartments.",
+Dental Materials,2. IMPRESSION MATERIALS,67,Elastomers except POLYETHER are,Hydrophilic,Hydrophobic,Water loving impression materials,Potassium alginates,B,'B' [Phillips' 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,68,The cross linking agent of polysulphide rubber base impression material is,Aromatic sulfonate esters,Platinum salt catalyst,Stannous octate,Lead dioxide,D,"'D' [Phillips' 11th ed 213/ 12th ed 153]
+Lead dioxide is the cross linking agent in polysulphide impression material. This imparts brown color to the material. It is cross-linked to -SH groups of the polysulphide polymer.
+
+Which one of the following is an ingredient in the composition of polysulphide impression material?
+Ans: Lead dioxide (KERALA-2015)",
+Dental Materials,2. IMPRESSION MATERIALS,69,Which of the following impression material is rigid?,Zinc oxide-eugenol,Reversible hydrocolloid,Alginate,Polysulphide rubber,A,'A' [Phillips' 11th ed 216/ 12th ed 177],
+Dental Materials,2. IMPRESSION MATERIALS,70,"When making a polysulphide impression for a caste crown, custom trays are usually preferred over stock trays for all of the following reasons except",Custom trays facilitate uniform contraction of impression material,Custom trays require less impression material,Stock trays may be short in the flange area,Impressions made in the custom trays are easier to remove from the mouth,D,"'D' [Phillips' 11th ed 219/ 12th ed 156]
+Custom trays are used with polysulphide impression materials. They reduce the impression material in the tray thereby reducing polymerization shrinkage and also facilitate uniform contraction (increased accuracy). For silicones, putty-wash technique is used. So, there is no need of custom tray.",
+Dental Materials,2. IMPRESSION MATERIALS,71,Rapid removal of rubber impressions with a single firm motion results in,Reduced dimensional instability,Improved adhesion of the impression to the tray,Minimal permanent deformation,Reduced contamination by saliva,C,'C' [Phillips' 11th ed 212/ 12th ed 161],
+Dental Materials,2. IMPRESSION MATERIALS,72,Name the accelerator used in Zinc oxide eugenol paste,Olive oil,Linseed oil,Zinc acetate,All of these,C,"'C' [Phillips' 11th ed 252/ 12th ed 179]
+Zinc acetate, calcium chloride, alcohols are the accelerators used in ZOE paste.",
+Dental Materials,2. IMPRESSION MATERIALS,73,Impression compound is characterized by all the following except,Warps at room temperature,Is a thermoset material,Shows increased flow when kneaded with water,Low coefficient of thermal conductivity,B,"'B' [Phillips' 11th ed 209/ 12th ed 177]
+Impression compound agar and waxes are thermoplastic materials. The materials, which set by chemical reaction, are called thermoset materials. Heat cure acrylics are examples of thermoset materials.",
+Dental Materials,2. IMPRESSION MATERIALS,74,The low thermal conductivity of impression compound is overcome by:,Impression is placed in mouth till it gets cold and sudden removal of impression.,By melting in boiling water at 50°c for one hour.,By heating with ethanol frame and directly placing in patient's mouth.,Heating in hot water and immediately quenching in water for 20 minutes.,A,"'A' [Manappallil 2nd ed 35/ Phillips' 12th ed 178]
+Impression compound has low thermal conductivity. To overcome this the following is done:
+- During softening of material, the outside will soften first and inside last. So to ensure uniform softening, the material should be kept immersed for a long time in the water bath.
+- The layer adjacent to the mouth-tissues will remain soft. Therefore, it is important to cool the compound thoroughly before removing the impression.",
+Dental Materials,2. IMPRESSION MATERIALS,75,Which of the following is not true about elastomeric impression?,Single mix materials have higher viscosity,Shear thinning is related to viscosity of non phase impression material,Improper mixing of material can cause permanent deformation of impression,Putty - wash technique of impression reduces dimensional change of setting,A,"'A' [Phillips' 11th ed 220/ 12th ed 159]
+Medium viscosities of elastomers are often used for single mix technique.
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Technique</th><th>Description</th></tr></thead><tbody><tr><td>Multiple mix technique</td><td>Two separate mixes (heavy and light body) are made. Heavy body is placed in the tray and light body is loaded in a syringe and impression is made</td></tr><tr><td>Single mix technique/ Monophase technique</td><td>Only one mix is made (medium body). Part of it is loaded in tray and part of it is loaded into syringe and an impression is made.</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,76,Linear contraction of elostomeric impression with passage of time is highest in:,Addition silicone,Polysulphide,Polyetner,Condensation silicone,D,'D' [Phillips' 11th ed 224/ 12th ed 165],
+Dental Materials,2. IMPRESSION MATERIALS,77,"When working with condensation silicone impression material, it is advisable to pour the cast",Immediately,After 1 hour,After 4 hours,After 24 hours,A,"'A' [Phillips' 11th ed 222-24/ 12th ed 165]
+In contrast addition silicones should be poured an hour late to improve the cast surface. The polyether impression can be poured immediately or after several days and the resulting casts will have same accuracy.",
+Dental Materials,2. IMPRESSION MATERIALS,78,Which of the following is true about Agar hydrocolloid impression material?,Liquefies between 71 - 100°C,Solidifies between 50 - 70°C,Facilitates fabrication of metal dyes,Cannot register fine surface details,A,"'A' [Phillips' 11th ed 235/ 12th ed 170]
+Agar liquefaction temperature is 70-100°C and gelation temperature is 37-50°C",
+Dental Materials,2. IMPRESSION MATERIALS,79,Alginates are made dust free by adding:,Glycol,Glycerol,Glutamic acid,alcohol,A,"'A' [Phillips' 11th ed 240/ 12th ed 172]
+Dustless alginates incorporate polyethylene or polypropelene glycol on the alginate powder to agglomerate the particles. Due to this the powders no longer have a tendency to release fine particles that cause a health hazard.",
+Dental Materials,2. IMPRESSION MATERIALS,80,Which one of the following increases the strength and reduce viscosity of agar hydrocolloid impression material:,Borax,Water,Sulfates,Carbonates,A,'A' [Manappallil 2nd ed 49],
+Dental Materials,2. IMPRESSION MATERIALS,81,The role of magnesium chloride in ZOE impression paste:,Retarder,Modifier,Plasticiser,Accelerator,D,"'D' [Phillips' 11th ed 252/ 12th ed 179]
+Zinc acetate, calcium chloride, alcohols are the accelerators used in ZOE paste.",
+Dental Materials,2. IMPRESSION MATERIALS,82,The water powder ratio of alginate is:,100 ml of water to 60 gms of powder,40 ml of water to 40 gms of powder,40 ml of water to 15 gms of powder,15 ml of water to 40 gms of powder,C,'C' [Nallaswamy 1st ed 372],
+Dental Materials,2. IMPRESSION MATERIALS,83,To make the vinyl polysiloxane hydrophilic the following is added:,Mineral oil,Surfactant,Water,Plasticizer,B,"'B' [Phillips' 11th ed 215/ 12th ed 167]
+One of the disadvantages of addition silicones is their inherent hydrophobic nature. A non ionic surfactant is added to the paste to render it hydrophilic.
+
+Surfactants are added to addition silicones to (COMEDK-15)
+a) Decrease contact angle (correct answer)
+b) Increase contact angle
+c) Decrease shear stress
+d) Decrease setting time",
+Dental Materials,2. IMPRESSION MATERIALS,84,Best impression material to be used for securing impressions after crown preparation:,Alginate,Agar,Elastomer,Zno paste,C,'C' [Phillips' 11th ed 208/ 12th ed 160],
+Dental Materials,2. IMPRESSION MATERIALS,85,Dimensional stability of hydrocolloid impressions may be achieved by:,Using less water powder ratio,Storing the impression under water,Prolonged manipulation,Using humidor,D,"'D' [Phillips' 11th ed 246/ 12th ed 174]
+2% potassium sulfate or 100% relative humidity are used to reduce dimensional changes of hydrocolloid impressions.",
+Dental Materials,2. IMPRESSION MATERIALS,86,Dimension stability of hydrocollids may be achieved by,optimizing w:p,using cold water,prolonged manipulation,using humidor,D,"'D' [Phillips' 11th ed 246/ 12th ed 174]
+100% relative humidity or 2% potassium sulfate are the suggested storage media to reduce the dimensional change of hydrocolloids particularly agar impressions.",
+Dental Materials,2. IMPRESSION MATERIALS,87,Which of the following is correct regarding chemical setting of condensation silicone:,Polymerization occurs with repeated elimination of small molecules,Polymerization occurs with elimination of single byproduct,By condensation of repeated molecules of monomers,Condensation does not occur at all,A,"'A' [Phillips' 11th ed 151, 152/ 12th ed 154]",
+Dental Materials,2. IMPRESSION MATERIALS,88,Which of the following is correct glass transition temperature of Impression compound?,43.5°C,39°C,65°C,100°C,B,"'B' [Phillips' 11th ed 288]
+Glass transition temperature: (Tg)
+""It is the temperature at which there is an abrupt increase in the thermal expansion coefficient indicating increased molecular mobility."" It is characteristic of the particular glassy structure."" It is approximately 35 - 39°C (AIIMS- 07).
+
+At below Tg, the glass structure loses its fluid characteristics and has significant resistance to shear deformation. Synthetic dental resin is examples of glassy structures.",
+Dental Materials,2. IMPRESSION MATERIALS,89,Which of the following is used as surface hardener in Impression material?,2% potassium sulfate,0.2% potassium sulfate,2% sodium sulfate,4% potassium sulfate,A,'A' [Phillips' 10th ed Pg 134],
+Dental Materials,2. IMPRESSION MATERIALS,90,A technique of combining reversible and irreversible hydrocolloid that could bond to irreversible hydrocolloid is known as -,Injecting technique,Laminate technique,Immersion technique,Tempering technique,B,'B' [Phillips' 11th ed 245/ 12th ed 176],
+Dental Materials,2. IMPRESSION MATERIALS,91,Which of the following best describes the working time of impression material?,After the start of appearing elastic properties of impression material,Just after the start of appearing elastic properties of impression material,The time from start of mixing till just before the start of appearing elastic properties of impression material,Loss of lusture of impression material,C,"'C' [Phillips' 11th ed 223/ 12th ed 161]
+The measurement of working time begins with the start of mixing and ends just before the impression material has developed elastic properties.
+
+Setting time: Time elapsing from the beginning of mixing until the curing has advanced sufficiently that the impression can be removed from the mouth with negligible distortion.",
+Dental Materials,2. IMPRESSION MATERIALS,92,The ideal way to control setting time of alginate is,Use of warm water,Selection of fast setting alginate,Alter the W/P ratio,Alter mixing time,D,"'D' [Philip's 12th ed 172-173]
+A slight modification in the W/P ratio or the mixing time can have marked effects on two important properties of the gel, tear strength, and elasticity; thus, the setting time is best regulated by the amount of retarder added during the manufacturing process. Usually, the manufacturers make both fast-setting alginate (1.5 to 3 min) and normal-setting alginate (3 to 4.5 min) to give clinicians a choice of the materials that best suit their working style.
+
+Clinicians, however, can safely influence the setting time by altering the temperature of the water. It is evident that the higher the temperature, the shorter is the setting time of the mixing water should be controlled carefully within a degree or two of a standard temperature, usually 20°C, so that a constant and reliable setting time can be obtained.",
+Dental Materials,2. IMPRESSION MATERIALS,93,Which of the following is correct arrangement of impression material regarding linear contraction in ascending order?,Addition silicone < Polyether < Polysulfide < Condensation silicone,Addition silicone < Polysulfide < Polyether < Condensation silicone,Condensation silicone< Polyether < Polysulfide < Addition Silicone,Condensation silicone < Polysulfide < Polyether < Addition Silicone,A,'A' [Phillips' 11th ed 224/ 12th ed 165],
+Dental Materials,2. IMPRESSION MATERIALS,94,Polysulfide material is routinely not recommended because of:,Unpleasant odor and taste,Least permanent deformation,Low accuracy,Highest curing shrinkage,A,'A' [Phillips' 10th ed 151/ 12th ed 170],
+Dental Materials,2. IMPRESSION MATERIALS,95,Disadvantage of polysulphide as impression material:,High cost,Materials leaching out,Stretching leads to distortion,Difficulty in cast pouring,C,'C' [Phillips' 11th ed 227/ 12th ed 161],
+Dental Materials,2. IMPRESSION MATERIALS,96,"Hydrocolloid material, show all except:",Hysterisis,Imbibition,Recrystallisation,Syneresis,C,'C' [Phillips' 11th ed 234/ 12th ed 174],
+Dental Materials,2. IMPRESSION MATERIALS,97,Impression material which has a high incidence of air porosity is,Alginate impression material,Impression compound,Zinc oxide eugenol impression paste,Polyether impression material,A,'A' [Phillips' 11th ed 209/ 12th ed 153],
+Dental Materials,2. IMPRESSION MATERIALS,98,Impression material that DO NOT harden by chemical reaction:,Zinc oxide eugenol,Impression compound,Alginate,Plaster of paris,B,'B' [Phillips' 11th ed 234/ 12th ed 174],
+Dental Materials,2. IMPRESSION MATERIALS,99,A laminate impression technique utilizes:,Syringe agar and chilled tray alginate,Syringe agar and tray agar,Syringe agar and impression compound,Chilled alginate and impression compound,A,"'A' [Phillips' 11th ed 245/ 12th ed 176]
+Laminate or Agar-Alginate method:
+Tray is filled with chilled alginate that bonds with the agar expressed from a syringe. Alginate gels by chemical reaction and Agar gels by means of contact with the cool alginate.",
+Dental Materials,2. IMPRESSION MATERIALS,100,Putty wash technique:,Light body and putty used at the same time,Putty used first and light body used second,Light body first and putty later,None of the above,B,'B' [Phillips' 11th ed 221/ 12th ed 160],
+Dental Materials,2. IMPRESSION MATERIALS,101,Dimensional stability of elastomeric impression material can be given in descending order as :,Polysulphide > Polyether > Condensation silicone > Addition silicone,Polyether > Condensation silicone > Polysulphide > Addition silicone,Addition silicone > Polyether > Polysulphide > Condensation silicone,Addition silicone > Condensation silicone > Polysulphide > Polyether,C,'C' [Phillips' 12th ed 159],
+Dental Materials,2. IMPRESSION MATERIALS,102,The monophase elastomeric material can be used as both tray and syringe material because it has,A Long setting time,It is economical,Pseudo plastic properties,Better recording of tissues,D,"'D' [Journal of Rubber Chemistry and Technology; 2003, Vol.76, pg 419 - 435]
+Hardness measurement methods:
+- Macrohardness tests (Rockwell and Brinnel)
+- Microhardness tests (Vickers and Knoop)
+- Shore
+- Moh's hardness
+- Barcoal hardness
+
+The shore scleroscope measures hardness in terms of elasticity of the material. Shore hardness, using either the shore A or shore D scale is the preferred method for rubbers or elastomers and is also commonly used for softer plastics. It is commonly used to assess and compare the stress-strain behaviour of elastomers. Shore A is used to test soft elastomers and shore D is used to test the hardness of hard elastomers. Moh's hardness is defined by how well a substance will resist scratching by other substance. Barcoal hardness method is used to determine the hardness of both reinforced and non-reinforced rigid plastics.",
+Dental Materials,2. IMPRESSION MATERIALS,103,The relative hardness of elastomers is determined using,Rockwell tester,Barcol indenter,Knoop pyramid,Shore durometer,D,"'D' [Journal of Rubber Chemistry and Technology; 2003, Vol.76, pg 419-435]",
+Dental Materials,2. IMPRESSION MATERIALS,104,Rough surface of elastomeric impression results from:,Inadequate mixing,Air bubbles,Too rapid polymerization,Incomplete polymerization caused by premature removal from mouth,D,"'D>C' [Phillips' 11th ed 230 Tab 9-5]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Common failures that occur with use of non-aqueous elastomeric impression materials</th></tr><tr><th>Type of failure</th><th>Causes</th></tr></thead><tbody><tr><td>Rough or uneven surface on impression</td><td>- Incomplete polymerization caused by premature removal from mouth, improper ratio or mixing of components, or presence of oil or other inorganic material on teeth.<br>- For addition silicone, agents that contaminate the material and inhibit polymerization causes rough surface<br>- Too rapid polymerization from high humidity or temperature<br>- Excessively high accelerator/ base ratio with condensation silicone.</td></tr><tr><td>Bubbles</td><td>- Air incorporated during mixing<br>- Too rapid polymerization, preventing flow (In 12th ed Philips' this point is deleted)</td></tr><tr><td>Irregularly shaped voids</td><td>Moisture or debris on surface of teeth</td></tr><tr><td>Rough or chalky stone cast</td><td>- Inadequate cleaning of impression<br>- Excess water left on the surface of impression<br>- Excess wetting agent left on impression<br>- Premature removal of cast<br>- Improper manipulation of stone<br>- Failure to delay pour of addition silicone at least 20 mins.</td></tr><tr><td>Distortion</td><td>- Premature removal from mouth<br>- Improper removal from mouth<br>- Excess bulk of material<br>- Movement of tray during polymerization<br>- Lack of adhesion of rubber to the tray caused by not applying enough coats of adhesive, filling tray with material too soon after applying adhesive, or using wrong adhesive<br>- Lack of mechanical retention for those materials where adhesive is ineffective.<br>- Development of elastic properties in the material before tray is seated.<br>- Insufficient relief for the reline material.<br>- Continued pressure against impression material that has developed elastic properties.</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,105,Which of the following material requires a hardener?,Agar,Alginate,Elastomers,Impression compound,A,"'A' [Phillips' 11th ed 235/ 12th ed 167]
+Potassium sulphate is the gypsum hardener in Agar impression material.",
+Dental Materials,2. IMPRESSION MATERIALS,106,Most rigid elastomer is,Polyether,Polysulphide,Addition silicone,Condensation silicone,A,"'A' [Refer Q.No. 58 / Phillips' 11th ed 231, 232 Tab 9 - 6/ 12th ed 164, 169 Tab 8-6]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Comparative properties of elastomeric impression materials</th><th>Polysulfide</th><th>Condensation silicone</th><th>Addition silicone</th><th>polyether</th></tr></thead><tbody><tr><td>Working time (min)</td><td>4-7</td><td>2.5-4</td><td>2-4</td><td>3</td></tr><tr><td>Setting time (min)</td><td>7-10</td><td>6-8</td><td>4-6.5</td><td>6</td></tr><tr><td>Tear strength (N/m)</td><td>2500-7000</td><td>2300-2600</td><td>1500-4300</td><td>1800-4800</td></tr><tr><td>Percent contraction (at 24hr)</td><td>0.40-0.45</td><td>0.38-0.60</td><td>0.14-0.17</td><td>0.19-0.24</td></tr><tr><td>Contact angle between set material and water</td><td>82</td><td>98</td><td>98</td><td>49</td></tr><tr><td>Hydrogen gas evolution (Y/N)</td><td>N</td><td>N</td><td>Y</td><td>N</td></tr><tr><td>Multiple casts</td><td>N</td><td>N</td><td>Y</td><td>Y</td></tr><tr><td>Stiffness (1 indicates greater stiffnes)</td><td>3</td><td>2</td><td>2</td><td>1</td></tr><tr><td>Distortion on removal (value 1 indicates greater distortion)</td><td>1</td><td>2</td><td>4</td><td>3</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,107,Most mucostatic among the following,Impression compound,Alginate,ZOE paste,Elastomer,C,"'C' [Phillips' 11th ed 208/ 12th ed 153]
+""ZOE impression paste"" and ""plaster of paris"" are called mucostatic impression materials because they do not compress the tissue during seating of the impression. They are ideal for for making impressions of edentulous structures.",
+Dental Materials,2. IMPRESSION MATERIALS,108,Most ideally elastic among the following,Polyether,Addition silicone,Polysulphide,Condensation silicone,B,'B' [Phillips' 11th ed 232 Tab 9-7/ 12th ed 169 Tab 8-6],
+Dental Materials,2. IMPRESSION MATERIALS,109,The ranking of tear strength from the lowest to highest of all impression materials generally is as follows,"Hydrocolloids, silicones, polyether, polysulfide","Silicones, hydrocolloids, polyether, polysulfide","Polysulfide, hydrocolloids, silicones, polyether","Hydrocolloids, polyether, silicones, polysulfide",A,'A' [Phillips' 12th ed 169 Tab 8-6],
+Dental Materials,2. IMPRESSION MATERIALS,110,"Which one of the following impression materials is elastic, sets by a chemical reaction and is catalyzed by chloroplatinic acid",Condensation silicone,Polyether,Polysulfide,Poly vinyl siloxane,D,"'D' [MANAPPALLIL 3rd ed 198]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Impression Material</th><th>Catalyst</th></tr></thead><tbody><tr><td>Condensation Silicone</td><td>Stannous octoate</td></tr><tr><td>Addition Silicone</td><td>Chloroplatinic acid</td></tr><tr><td>Polysulphide</td><td>Lead dioxide</td></tr></tbody></table>
+In condensation silicone, the condensation reaction between - OH groups & tetraethyl orthosilicate takes place in presence of (MHCET-15)
+a) Platinum salt
+b) Stannous octate (correct answer)
+c) Trisodium phosphate
+d) Ethyl alcohol",
+Dental Materials,2. IMPRESSION MATERIALS,111,The impression materials with lowest viscosity is,Plaster of paris,Agar-agar,Zinc oxide eugenol,Elastomers,A,'A' [Phillips' 11th ed 273 Tab. 10-5],
+Dental Materials,2. IMPRESSION MATERIALS,112,Which of the following best describes the working time of elastomeric impression material?,After the start of appearing elastic properties of impression material,Just after the start of appearing elastic properties of impression material,Just before the start of appearing elastic properties of impression material,Loss of luster of impression material,C,"'C' [Phillips' 10th ed 142/ 12th ed 161]
+The measurement of working time begins with the start of mixing and ends just before the impression material has developed elastic properties.
+
+Setting time: Time elapsing from the beginning of mixing until the curing has advanced sufficiently that the impression can be removed from the mouth with negligible distortion.",
+Dental Materials,2. IMPRESSION MATERIALS,113,Rough and Irregular surface produced on the impression is because of?,Improper application of pressure during impression making,Air incorporated during mixing,Too rapid polymerization,Presence of moisture in impression area,C,"'C' [Phillips' 10th ed 174/ 12th ed 169 Tab 8-5]
+Causes of rough or uneven surface of elastomeric impression material are:
+- Incomplete polymerization caused by premature removal from mouth.
+- Improper ratio of mixing components.
+- Too rapid polymerization caused by high humidity & high temperature.",
+Dental Materials,2. IMPRESSION MATERIALS,114,Final product in alginate is?,Sodium alginate,Potassium alginate,Trisodium phosphate,Calcium alginate,D,"'D' [Phillips' 11th ed 241/ 12th ed 172]
+Setting reaction:
+Potassium alginate + Calcium sulphate → Potassium sulphate + Calcium alginate
+
+Option 'C' trisodium phosphate is added as a retarder. It reacts with calcium sulphate preferably than alginate and thus prolongs the working time.",
+Dental Materials,2. IMPRESSION MATERIALS,115,Which of the following impression materials is easy to pour and difficult to remove the stone cast from the impressions?,Addition polysilicone,Condensation polysilicone,Polyether,Polysulfide,C,"'C' [Phillips' 11th ed 222/ 12th ed 161]
+The hydrophobicity of the non-aqueous elastomeric impression materials make it difficult to wet the surface by gypsum products and may result in bubbles. A dilute solution of soap is an effective surfactant.
+
+Pouring the stone cast in a polyether impression is much easier when compared to other non-aqueous elastomers. However, the stiffness of polyether makes it difficult to remove the cast from the impression and may result in fracture of stone cast during removal.",
+Dental Materials,2. IMPRESSION MATERIALS,116,Dustless alginate is produced by,Reducing the diatomaceous earth,Adding heavy metal salts,Coating with dihydric alcohol,Altering the matrix,C,"'C' [Craig 11th ed 336]
+Alginate powder contains 10-15% of siliceous dust particles. Coating this powder with glycol results in a dustless alginate.",
+Dental Materials,2. IMPRESSION MATERIALS,117,"""Two in one stage"" impression materials include",Zinc-Oxide eugenol impression paste,Hydrocolloid impression material,Elastomeric impression material,All of the above,C,"'C' [Mc Cabe dental materials 148]
+Elastomers particularly addition silicones (Vinyl polysiloxane) can be used in two stage or one stage technique.
+- 2-stage impression: The impression with putty (heavy body) is taken first and then light body (wash) impression is taken separately with the same tray.
+- 1-stage impression: The light body is syringed over the tooth preparation and heavy body is loaded in the impression tray. Then the impression is taken as normal. This saves time.",
+Dental Materials,2. IMPRESSION MATERIALS,118,Alginate fillers derived from,Calcium sulphate,Sodium phosphate,Potassium alginate,Diatomaceous earth,D,"'D' [Phillips 12th ed 171]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th colspan='2'>Powder composition of alginate</th></tr><tr><th>Component</th><th>Function</th></tr></thead><tbody><tr><td>Potassium alginate</td><td>Soluble alginate</td></tr><tr><td>CaSO4</td><td>Reactor</td></tr><tr><td>Zinc oxide / Diatomaceous earth</td><td>Filler particles to increase strength and stiffness of the gel</td></tr><tr><td>Sodium phosphate</td><td>Retarder</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,119,In case of addition silicones what should be done for better cast,Apply ketone over tray,Apply chloroform over tray,Add flavouring agent to prevent bad odour,Delay pouring of cast,D,'D' [Phillips' 11th ed 222-24/ 12th ed 165],
+Dental Materials,2. IMPRESSION MATERIALS,120,A dentist can best control the setting time of Alginate impression material without altering its properties by,Using perforated tray,Altering water: powder ratio,Reducing the rate of mixing,Altering the temperature of water,D,"'D' [Explanation Q.No.28]
+The temperature of the mixing water should be carefully controlled with a standard temperature usually 20 degrees to 23 degrees so that a constant and reliable setting time can be obtained.
+
+The recommended water temperature for mixing alginate impression material is (COMEDK-2016)
+a) 25°C to 26°C
+b) 37°C to 38°C
+c) 22°C to 23°C (correct answer)
+d) 30°C to 31°C",
+Dental Materials,2. IMPRESSION MATERIALS,121,The elastomer having the longest curing time is,Polysulfide,Poly ether,Addition silicone,Condensation silicone,A,'A' [Check Synopsis],
+Dental Materials,2. IMPRESSION MATERIALS,122,An example of rigid reversible impression material is,Agar-agar,Impression compound,Alginate,Impression paste,B,"'B' [Phillips 12th ed 153]
+<table border='1' cellpadding='4' cellspacing='0'><thead><tr><th>Setting mechanism</th><th>Rigid / inelastic</th><th>Elastic</th></tr></thead><tbody><tr><td>Chemical reaction</td><td>Plaster of paris, ZOE</td><td>Alginate, Elastomers</td></tr><tr><td>Thermally induced physical reaction (Reversible)</td><td>Impression compound</td><td>Agar</td></tr></tbody></table>",
+Dental Materials,2. IMPRESSION MATERIALS,123,Permanent deformation following strain in compression in increasing order for elastomers,"Addition silicone, condensation silicone, polyether, poly sulphide","Poly sulphide, poly ether, Addition silicone, condensation silicone","Poly sulphide, poly ether, condensation silicone, Addition silicone","Polyether, poly sulphide, addition silicone, condensation silicone",A,"'A' [Refer Synopsis]
+Increasing order of permanent deformation in elastomeric impression materials:
+Addition Silicone < Condensation Silicone < Polyether < Polysulphide",
+Dental Materials,2. IMPRESSION MATERIALS,124,Which of the following nonaqueous elastomeric impression materials has the least shelf life,Poly ether,Addition silicone,Condensation silicone,Polysulphide,C,'C' [Refer Synopsis],
+Dental Materials,2. IMPRESSION MATERIALS,125,Regarding type I impression compound not true is,Incomplete kneading leads to incorporation of water that increases flow of impression compound,Even when needed in small quantity it is not heated over flame,Is softened in water bath,Also called as type I compound according to ADA,A,"'A' [Craig 11th ed 372]
+Impression compound is classified as:
+Type 1: Low fusing (green stick compound), Medium fusing (impression compound)
+Type 2: High fusing (Tray compound)
+
+Manipulation of medium and high fusing compound is by immersing in water bath between temperatures 60-70°C. Then it is kneaded with fingers like a dough to obtain uniform plasticity. This wet kneading of one minute improves the flow by double. So option 'A' is wrong. Manipulation of low fusing (green stick) is by softening it over the flame.
+
+As the question is about type-I impression compound, option 'A' is false and is the correct answer.",
+Dental Materials,2. IMPRESSION MATERIALS,126,Which of the following component of hydrocolloid can lead to fixed drug eruptions?,CaSO4,Phenolphthalein,Na fluorititanate,Magnesium oxide,B,"'B' [Check Explanation Below]
+Chromalginate:
+These are color changing alginates. It is due to incorporation of pH indicators that change color during gelation process. Various pH indicators such as cresol red, phenolphthalein, thymol blue, naphtholphthalein can be used.
+
+Fixed drug eruptions are the localized sharply circumscribed cutaneous drug reaction that recurs in exactly same location on repeated exposure. The agents which commonly produce them are barbiturates, paracetamol, phenolphthalein, sulphonamides, tetracycline and pyrazonal derivatives.",
+Dental Materials,2. IMPRESSION MATERIALS,127,Condensation reaction occurs in,Agar,Alginate,Polysulfide,ZOE,C,"'C' [Phillips 1st SA ed 159]
+Condensation polymerization is the reaction between two usually dissimilar molecules to form a larger molecule with the elimination of a smaller molecule (often water). In Polysulphide the polymerization reaction yields water as a by-product. So it is an example of condensation reaction. The loss of this small water molecule has a significant effect on the dimensional stability.
+
+The other example is condensation silicone, where ethyl alcohol is a by-product and its evaporation leads to much of the contraction.",
+Dental Materials,2. IMPRESSION MATERIALS,128,Putty consistency addition silicone is mixed by,Kneading with fingers while wearing gloves,Kneading with fingers without gloves,On a mixing pad,With an auto mixer and dispenser,B,"'B' [Phillips' 1st SA ed 160]
+Sulphur contamination from natural latex gloves inhibits the setting of addition silicone. The contamination is so extensive that touching the tooth with latex gloves before seating the impression can inhibit the setting of the critical surface next to the tooth.",
+Dental Materials,2. IMPRESSION MATERIALS,129,Which of the following component acts as an accelerator in ZOE impression paste?,Zinc Sulphate & Zinc chloride,Zinc chloride & Eugenol,Zinc Sulphate & Eugenol,Glycerin,A,"'A' [Phillips' 10th ed 181/ 12th ed 179]
+Zinc acetate, calcium chloride, primary alcohols, zinc chloride and water are used as accelerators. Inert oils and waxes like olive oil, mineral oil and petrolatum jelly are the retarders.",
+Dental Materials,2. IMPRESSION MATERIALS,130,By product of condensation reaction between silicone base and alkyl silicate in presence of tin octate,Ethyl alcohol,Glycol,Acetate,Propanolol,A,"'A' [Phillips' 11th ed 213/ 12th ed 154]
+Ethyl alcohol is the byproduct of condensation reaction between silicone base and alkyl silicate in the presence of tin octoate. The evaporation of ethyl alcohol results in much of the contraction of the set silicone impression.",
