@@ -16,3 +16,4 @@ https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/mai
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/Dental_Materials_All_MCQs_Entire_PDF.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/CompleteDenture_Ch1_Ch2.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/CompleteDenture_Ch3_Ch4.csv
+https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/CompleteDenture_Ch5_Ch6_Ch7_Ch8.csv
