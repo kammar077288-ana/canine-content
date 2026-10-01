@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/mai
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/endodontics_mcqs_HTML_tables.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/endodontics_2018_19_mcqs_HTML_tables.csv
 https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/endodontics_mcqs_final.csv
+https://raw.githubusercontent.com/kammar077288-ana/canine-content/refs/heads/main/endodontics_pdf2_mcqs_final.csv
